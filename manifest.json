@@ -1,0 +1,23 @@
+{
+  "short_name": "pwa",
+  "name": " Progressive Web App",
+  "icons": [
+    {
+      "src": "image/icon.48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "image/icon.96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "image/icon.192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html?utm_source=homescreen&launcher=true",
+  "display": "standalone"
+}
